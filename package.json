@@ -1,0 +1,12 @@
+{
+  "name": "@chimaera/connector-gremlin",
+  "version": "0.0.0",
+  "description": "connects to gremlin",
+  "author": "Richard Tong",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github:chimaera-node/connector-gremlin"
+  }
+}
